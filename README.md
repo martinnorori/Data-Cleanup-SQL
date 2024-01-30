@@ -12,6 +12,6 @@ This project focuses on cleaning up a dataset containing housing information in 
 --Removing Duplicate Rows: Duplicate rows in the dataset are removed.
 --Deleting Unused Columns: Several unwanted columns such as OwnerAddress, TaxDistrict, and PropertyAddress are removed.
 
-##Run
+## Run
 1. Ensure you have access to the SQL Server database containing the Nashville housing dataset.
 2. Execute the provided SQL queries in the specified order to clean and enhance the dataset.
